@@ -1,4 +1,4 @@
-Hi there! 👋
+## Hey there! 👋
 I'm Juan, an engineer born in Venezuela and raised in Colombia. 👨‍💻
 I work on anything that involves an engineering challenge. 💡 I love designing and building things 🛠️, and I recently started using GitHub. My goal is to showcase the projects I've worked on as I continuously grow as an engineer. 📈
 If you're into design, engineering, control, and automation, you're in the right place! 🤖⚙️
