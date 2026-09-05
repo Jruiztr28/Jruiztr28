@@ -1,12 +1,12 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Jruiztr28/count.svg"/>
+  <img src="https://profile-counter.glitch.me/jruiztr28/count.svg"/>
   <br/>
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jruiztr28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jruiztr28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jruiztr28&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jruiztr28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruiztr28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jruiztr28&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
 
 ## Hey there! 👋
