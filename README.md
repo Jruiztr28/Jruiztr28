@@ -33,5 +33,6 @@ And if any of this simply sparks your interest, let's chat sometime—I'm sure w
  * I probably switch accents a lot when speaking without even realizing it. 🗣️🔄
  * I truly hope to take a small bite to the universe through engineering one day. 🚀🌌
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=Jruiztr28&icon=0&color=0)](https://visitcount.itsvg.in)
 
