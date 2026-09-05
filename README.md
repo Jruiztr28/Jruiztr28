@@ -1,21 +1,12 @@
 <div align="center">
-  <p>Visitor count</p>
-  <!-- 1. Contador estilo verde/odómetro funcional (Komarev) -->
+ ## <p>Visitor count</p>
+  <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=Jruiztr28&color=00ff00&style=flat-square&label=VISITORS" alt="Visitor Count" />
   <br /><br />
 
-  <!-- 2. Tarjetas de Stats y Top Languages (Alineadas en bloque) -->
+  <!-- Tarjeta de Stats centrada -->
   <a href="https://github.com/Jruiztr28">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Jruiztr28&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Jruiztr28">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jruiztr28&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
-  </a>
-  <br /><br />
-
-  <!-- 3. Gráfica de actividad funcional (Contribution Graph) -->
-  <a href="https://github.com/Jruiztr28">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jruiztr28&theme=react-dark&hide_border=false&area=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Jruiztr28&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
   </a>
 </div>
 
