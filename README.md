@@ -1,23 +1,24 @@
 <div align="center">
   <p>Visitor count</p>
-  <!-- 1. Contador estilo retro/odómetro -->
-  <img src="https://profile-counter.glitch.me/Jruiztr28/count.svg" alt="Visitor Count" />
+  <!-- 1. Contador estilo verde/odómetro funcional (Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=Jruiztr28&color=00ff00&style=flat-square&label=VISITORS" alt="Visitor Count" />
   <br /><br />
 
-  <!-- 2. Tarjetas de Stats y Most Used Languages alineadas -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jruiztr28&theme=tokyonight&show_icons=true&hide_border=false" />
+  <!-- 2. Tarjetas de Stats y Top Languages (Alineadas en bloque) -->
+  <a href="https://github.com/Jruiztr28">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Jruiztr28&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jruiztr28&theme=tokyonight&layout=compact&hide_border=false" />
+  <a href="https://github.com/Jruiztr28">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jruiztr28&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
   </a>
   <br /><br />
 
-  <!-- 3. Gráfica de actividad (Contribution Graph) -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jruiztr28&theme=react-dark&hide_border=false&area=true" width="100%" />
+  <!-- 3. Gráfica de actividad funcional (Contribution Graph) -->
+  <a href="https://github.com/Jruiztr28">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jruiztr28&theme=react-dark&hide_border=false&area=true" width="100%" alt="Contribution Graph" />
   </a>
 </div>
+
 ## Hey there! 👋
 I'm Juan, an engineer born in Venezuela and raised in Colombia. 👨‍💻  
 I work on anything that involves an engineering challenge. 💡 I love designing and building things 🛠️, and I recently started using GitHub. My goal is to showcase the projects I've worked on as I continuously grow as an engineer. 📈  
@@ -43,15 +44,6 @@ And if any of this simply sparks your interest, let's chat sometime—I'm sure w
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jruiztr28&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jruiztr28&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jruiztr28&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
 
 ## Fun facts 🤓
 * I have three dogs, and their names all start with the letter K. 🐶🐶🐶
