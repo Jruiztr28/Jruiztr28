@@ -1,5 +1,5 @@
 <div align="center">
- ## <p>Visitor count</p>
+  <p>Visitor count</p>
   <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=Jruiztr28&color=00ff00&style=flat-square&label=VISITORS" alt="Visitor Count" />
   <br /><br />
