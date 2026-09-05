@@ -1,8 +1,23 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=Jruiztr28&color=blueviolet&style=flat-square"/>
-</div>
+  <!-- 1. Contador estilo retro/odómetro -->
+  <img src="https://profile-counter.glitch.me/Jruiztr28/count.svg" alt="Visitor Count" />
+  <br /><br />
 
+  <!-- 2. Tarjetas de Stats y Most Used Languages alineadas -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jruiztr28&theme=tokyonight&show_icons=true&hide_border=false" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jruiztr28&theme=tokyonight&layout=compact&hide_border=false" />
+  </a>
+  <br /><br />
+
+  <!-- 3. Gráfica de actividad (Contribution Graph) -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jruiztr28&theme=react-dark&hide_border=false&area=true" width="100%" />
+  </a>
+</div>
 ## Hey there! 👋
 I'm Juan, an engineer born in Venezuela and raised in Colombia. 👨‍💻  
 I work on anything that involves an engineering challenge. 💡 I love designing and building things 🛠️, and I recently started using GitHub. My goal is to showcase the projects I've worked on as I continuously grow as an engineer. 📈  
