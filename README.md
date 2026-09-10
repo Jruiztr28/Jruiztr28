@@ -38,6 +38,6 @@ And if any of this simply sparks your interest, let's chat sometime—I'm sure w
 
 ## Fun facts 🤓
 * I have three dogs, and their names all start with the letter K. 🐶🐶🐶
-* I hope to move to Germany soon to pursue my Master's degree in Mechatronics and Information Technology. 🇩🇪🎓
+* I hope to move to Germany soon to pursue my Master's degree in Mechatronics and Information Technology.🎓
 * I probably switch accents a lot when speaking without even realizing it. 🗣️🔄
 * I truly hope to make a small dent in the universe through engineering one day. 🚀🌌
